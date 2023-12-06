@@ -1,0 +1,14 @@
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/bin/Debug/net8.0/QuickSorting
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/bin/Debug/net8.0/QuickSorting.deps.json
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/bin/Debug/net8.0/QuickSorting.runtimeconfig.json
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/bin/Debug/net8.0/QuickSorting.dll
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/bin/Debug/net8.0/QuickSorting.pdb
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/QuickSorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/QuickSorting.AssemblyInfoInputs.cache
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/QuickSorting.AssemblyInfo.cs
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/QuickSorting.csproj.CoreCompileInputs.cache
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/QuickSorting.dll
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/refint/QuickSorting.dll
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/QuickSorting.pdb
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/QuickSorting.genruntimeconfig.cache
+/Users/maksymkucherenko/src/sorting_algo/QuickSorting/obj/Debug/net8.0/ref/QuickSorting.dll
